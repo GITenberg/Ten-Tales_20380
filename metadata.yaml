@@ -1,0 +1,60 @@
+_repo: Ten-Tales_20380
+_version: 0.1.0
+contributor:
+  author_of_introduction:
+    agent_name: Matthews, Brander
+    aliases:
+    - Matthews, James Brander
+    - Penn, Arthur
+    - Matthews, J. Brander (James Brander)
+    birthdate: 1852
+    deathdate: 1929
+    gutenberg_agent_id: '1992'
+    url: http://www.gutenberg.org/2009/agents/1992
+    wikipedia: http://en.wikipedia.org/wiki/Brander_Matthews
+  illustrator:
+    agent_name: Sterner, Albert
+    alias: Sterner, Albert E. (Albert Edward)
+    birthdate: 1863
+    deathdate: 1946
+    gutenberg_agent_id: '9262'
+    url: http://www.gutenberg.org/2009/agents/9262
+    wikipedia: http://www.jewishencyclopedia.com/view.jsp?letter=S&artid=1095
+  translator:
+    agent_name: Learned, Walter
+    birthdate: 1847
+    deathdate: 1915
+    gutenberg_agent_id: '9261'
+    url: http://www.gutenberg.org/2009/agents/9261
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Coppée, François
+    aliases:
+    - Coppée, Francis Edouard Joachim
+    - Coppee, Francois
+    - François Coppée
+    birthdate: 1842
+    deathdate: 1908
+    gutenberg_agent_id: '1345'
+    url: http://www.gutenberg.org/2009/agents/1345
+    wikipedia: http://en.wikipedia.org/wiki/François_Coppée
+description: ''
+gutenberg_issued: '2007-01-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20380'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'France -- Social life and customs -- Fiction'
+tableOfContents: The captain's vices -- Two clowns -- A voluntary death -- A dramatic
+  funeral -- The substitute -- At table -- An accident -- The sabots of little Wolff
+  -- The foster sister -- My friend Meurtrier.
+title: Ten Tales
+url: http://www.gutenberg.org/ebooks/20380
